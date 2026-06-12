@@ -126,7 +126,7 @@ const Contact: React.FC = () => {
                             Email Address
                         </Typography>
                         <Typography variant="h6" sx={{ fontWeight: 600, mt: 0.5 }}>
-                            haciogullariserhat@gmail.com
+                            johndoe@gmail.com
                         </Typography>
                     </Box>
                 </Box>

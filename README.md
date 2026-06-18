@@ -56,6 +56,8 @@ Modern web teknolojileri ile geliştirilen platform, yüksek performans ve kulla
 
 ---
 
-**Geliştirici:** [Adınız/Geliştirici Grubu]  
+**Geliştirici:** 
+Serhat Hacıoğulları 
+Yusuf Türker Kolomuç 
 **Akademik Yıl:** 2025 - 2026  
 **YTÜ Fen Bilgisi Öğretmenliği Bölümü**

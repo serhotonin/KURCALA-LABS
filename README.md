@@ -41,7 +41,7 @@ Modern web teknolojileri ile geliştirilen platform, yüksek performans ve kulla
 ### Adımlar
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone [repo-url]
+    git clone https://github.com/serhotonin/KURCALA-LABS
     cd KURCALA
     ```
 2.  **Bağımlılıkları Yükleyin:**
